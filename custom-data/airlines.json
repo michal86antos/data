@@ -1668,5 +1668,11 @@
     "name": "Axiom",
     "callsign": "AXIOM",
     "virtual": true
+  },
+  {
+    "icao": "ASK",
+    "name": "AIRSKY",
+    "callsign": "AIRSKY",
+    "virtual": true
   }
 ]
